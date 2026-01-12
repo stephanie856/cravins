@@ -6,7 +6,7 @@ export const validateEmail = (email: string): boolean => {
 
 export const getSourceFromURL = (): string => {
   const params = new URLSearchParams(window.location.search);
-  return params.get('s') || params.get('source') || 'direct';
+  return params.get('s') || params.get('source') || 'NFC tap';
 };
 
 export const getDomainSuggestion = (email: string): string | null => {
