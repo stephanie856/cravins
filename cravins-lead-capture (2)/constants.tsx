@@ -12,7 +12,7 @@ export const COLORS = {
 };
 
 export const API_CONFIG = {
-  scriptUrl: 'https://script.google.com/macros/library/d/1e-Bgf_eTf0qE6aOnNWqwD5JNdbh1aFZdb05UvzsM9db42iYYozMyy73L/1',
+  scriptUrl: 'https://script.google.com/macros/s/AKfycbx_I_eu_ZDm7UUx9zhQi7kQ74h5XQwXAJj8JjUvK8hZdUOHf8LLnzMR7ZJ6hdetlENt2w/exec',
   sheetId: '11-Nf-LutjTVU7ATM-ra9oyAc74eXWjcM6EKf8T3e6v8',
 };
 
